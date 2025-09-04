@@ -49,12 +49,13 @@ Special thanks to **Team Xanthronz** (NIT Agartala) and all team members who con
 ---
 
 ## Photos
-![5](https://github.com/user-attachments/assets/8b95a408-88ca-4aae-813a-788b025d636e)
-
-
-
-
 
 ![vee](https://github.com/user-attachments/assets/1d9736f3-1b9c-4a6d-886e-bb6d265c039f)
+
+
+
+
+![1 (1)](https://github.com/user-attachments/assets/67d113e5-50b2-4bc3-8491-dca7b5464436)
+
 
 
