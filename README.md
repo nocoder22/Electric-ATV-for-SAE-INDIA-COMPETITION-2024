@@ -31,7 +31,13 @@ Our primary objective was to **replace the traditional internal combustion engin
 
 
 
+
 ---
+## Design
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7f561d8f-b01a-4d51-b22a-1ddaea71690f" width="300">
+</p>
+
 
 ## Responsibilities & Learnings
 
