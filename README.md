@@ -1,4 +1,4 @@
-[certificate.pdf](https://github.com/user-attachments/files/22173656/certificate.pdf)# Electric-ATV-for-SAE-INDIA-COMPETITION-2024
+## Electric-ATV-for-SAE-INDIA-COMPETITION-2024
 
 This repository documents the design, development, and testing of our **Electric All-Terrain Vehicle (E-ATV)** built for the **SAE INDIA BAJA 2024 competition**.  
 Our primary objective was to **replace the traditional internal combustion engine with a reliable electric powertrain**, ensuring that the vehicle has sufficient **power, torque, and speed** for off-road conditions while prioritizing **driver safety, handling, and endurance**.
@@ -68,7 +68,7 @@ Special thanks to **Team Xanthronz** (NIT Agartala) and all team members who con
 ## Certificate
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4bef282b-fc9c-42e1-956f-f174ae83b7be" width="600">
+  <img src="https://github.com/user-attachments/assets/d3bb3d51-93c3-4add-a6cf-6ce0b0454874" width="600">
 </p>
 
 
