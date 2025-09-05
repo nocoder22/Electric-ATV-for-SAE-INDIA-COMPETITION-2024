@@ -68,14 +68,12 @@ Special thanks to **Team Xanthronz** (NIT Agartala) and all team members who con
 ## Certificate
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR-NEW-UPLOADED-CERTIFICATE-ID" width="600">
+  <img src="https://github.com/user-attachments/assets/4bef282b-fc9c-42e1-956f-f174ae83b7be" width="600">
 </p>
 
 
 
 
-
-[certificate.pdf](https://github.com/user-attachments/files/22173813/certificate.pdf)
 
 
 
