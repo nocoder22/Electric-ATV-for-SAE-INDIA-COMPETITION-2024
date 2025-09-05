@@ -75,6 +75,7 @@ Special thanks to **Team Xanthronz** (NIT Agartala) and all team members who con
 
 
 
+[certificate.pdf](https://github.com/user-attachments/files/22173813/certificate.pdf)
 
 
 
